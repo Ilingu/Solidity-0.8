@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "learn-solidity-0.8",
+  "version": "0.0.1",
+  "description": "Become a Solidity Expert",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "@Ilingu",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier-plugin-solidity": "^1.0.0-beta.19"
+  }
+}
