@@ -26,7 +26,7 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 
 [`6. View & Pure Functions`](docs/6-%20ViewAndPure.sol)
 
-[`7. Counter {APP}`](app/7-%20Counter.sol)
+[`7. Counter`](app/7-%20Counter.sol) **{APP}**
 
 [`8. Types Default Values`](docs/8-%20DefaultValues.sol)
 
@@ -44,31 +44,49 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 
 [`14. Constructor Keyword`](docs/14-%20Constructor.sol)
 
-[`15. Ownable Contract {APP}`](app/15-%20Ownable.sol)
+[`15. Ownable Contract`](app/15-%20Ownable.sol) **{APP}**
 
-[`16. Functions Outputs`](docs/16-%20FunctionOutputs.sol)
+[`16. Functions Outputs`](docs/16-%20FunctionOutputs.sol) **{APP}**
 
 [`17. Arrays`](docs/17-%20Array.sol)
 
-[`18. Array Manipulation {APP}`](app/18-%20ArrayShift.sol)
+[`18. Array Manipulation`](app/18-%20ArrayShift.sol) **{APP}**
 
-[`19. Array Manipulation Part 2 {APP}`](app/19-%20ArrayReplaceLast.sol)
+[`19. Array Manipulation Part 2`](app/19-%20ArrayReplaceLast.sol) **{APP}**
 
 [`20. Mapping`](docs/20-%20Mapping.sol)
 
-[`21. Mapping Iterable {APP}`](app/21-%20IterableMapping.sol)
+[`21. Mapping Iterable`](app/21-%20IterableMapping.sol) **{APP}**
 
 [`22. Struct`](docs/22-%20Struct.sol)
 
 [`23. Enum`](docs/23-%20Enum.sol)
 
-[`24. Proxy Contract {APP}`](app/24-%20Proxy.sol)
+[`24. Proxy Contract`](app/24-%20Proxy.sol) **{APP}**
 
 [`25. Data Locations`](docs/25-%20DataLocations.sol)
 
-[`26. Data Locations {APP}`](app/26-%20SimpleStorage.sol)
+[`26. Simple Storage`](app/26-%20SimpleStorage.sol) **{APP}**
 
-[`27. Todo List {APP}`](app/27-%20TodoList.sol)
+[`27. Todo List`](app/27-%20TodoList.sol) **{APP}**
+
+[`28. Event`](docs/28-%20Event.sol)
+
+[`29. Chat App`](app/29-%20ChatApp.sol) **{APP}**
+
+[`30. Inheritance`](docs/30-%20Inheritance.sol)
+
+[`31. Multiple Inheritance`](docs/31-%20MultiInheritance.sol)
+
+[`32. Parent Constructors`](docs/32-%20ParentContructors.sol)
+
+[`33. Parent Functions`](docs/33-%20ParentFunctions.sol)
+
+[`34. Visibility`](docs/34-%20Visibility.sol)
+
+[`35. Immutability`](docs/35-%20Immutable.sol)
+
+[`36. Payable Functions`](docs/36-%20Payable.sol)
 
 ### Advanced Skills 😥
 
@@ -92,9 +110,11 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 
 [`24. Proxy Contract (Hard)`](app/24-%20Proxy.sol)
 
-[`26. Data Locations {APP}`](app/26-%20SimpleStorage.sol)
+[`26. Data Locations`](app/26-%20SimpleStorage.sol)
 
-[`27. Todo List {APP}`](app/27-%20TodoList.sol)
+[`27. Todo List`](app/27-%20TodoList.sol)
+
+[`28. Chat App`](app/29-%20ChatApp.sol)
 
 ## Security 🔰
 
