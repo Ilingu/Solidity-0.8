@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "learn-solidity-0.8",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Become a Solidity Expert",
   "type": "module",
   "scripts": {
@@ -9,7 +9,11 @@
   },
   "keywords": [],
   "author": "@Ilingu",
-  "license": "ISC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ilingu/Solidity-0.8"
+  },
   "devDependencies": {
     "prettier-plugin-solidity": "^1.0.0-beta.19"
   }
