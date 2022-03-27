@@ -88,7 +88,21 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 
 [`36. Payable Functions`](docs/36-%20Payable.sol)
 
+[`37. Fallback/Receive`](docs/37-%20Fallback.sol)
+
 ### Advanced Skills 😥
+
+[`38. Send ETH`](docs/38-%20SendEth.sol)
+
+[`39. Ether Wallet`](app/39-%20EtherWallet.sol) **{APP}**
+
+[`40. Call Other Contracts`](docs/40-%20CallOtherContracts.sol)
+
+[`41. Contracts Interface`](docs/41-%20Interfaces.sol)
+
+[`42. Call Address: call()`](docs/42-%20Call.sol)
+
+[`43. DelegateCalls`](docs/43-%20DelegateCall.sol)
 
 #### Coming soon 🦺
 
@@ -114,7 +128,9 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 
 [`27. Todo List`](app/27-%20TodoList.sol)
 
-[`28. Chat App`](app/29-%20ChatApp.sol)
+[`29. Chat App`](app/29-%20ChatApp.sol)
+
+[`39. Ether Wallet`](app/39-%20EtherWallet.sol)
 
 ## Security 🔰
 
