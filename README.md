@@ -104,7 +104,11 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 
 [`43. DelegateCalls`](docs/43-%20DelegateCall.sol)
 
-#### Coming soon 🦺
+[`44. Create New Contract`](docs/44-%20NewContract.sol)
+
+[`45. Library`](docs/45-%20Library.sol)
+
+#### Next comes soon 🦺
 
 ### Expert Skills 🥵
 
