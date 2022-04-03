@@ -108,6 +108,12 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 
 [`45. Library`](docs/45-%20Library.sol)
 
+[`46. Hash (Keccak256)`](docs/46-%20Hash.sol)
+
+[`47. Verify Signature`](docs/47-%20Sig.sol)
+
+[`48. Access Control (Roles)`](app/48-%20AccessControl.sol) **{APP}**
+
 #### Next comes soon 🦺
 
 ### Expert Skills 🥵
@@ -135,6 +141,8 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 [`29. Chat App`](app/29-%20ChatApp.sol)
 
 [`39. Ether Wallet`](app/39-%20EtherWallet.sol)
+
+[`48. Access Control (Roles)`](app/48-%20AccessControl.sol)
 
 ## Security 🔰
 
