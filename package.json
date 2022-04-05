@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "learn-solidity-0.8",
-  "version": "0.0.6",
+  "version": "0.0-alpha.7",
   "description": "Become a Solidity Expert",
   "type": "module",
   "scripts": {

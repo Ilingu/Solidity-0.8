@@ -114,6 +114,10 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 
 [`48. Access Control (Roles)`](app/48-%20AccessControl.sol) **{APP}**
 
+[`49. Kill Contract ☠`](docs/49-%20Kill.sol)
+
+[`50. PiggyBank`](app/50-%20PiggyBank.sol) **{APP}**
+
 #### Next comes soon 🦺
 
 ### Expert Skills 🥵
@@ -143,6 +147,8 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 [`39. Ether Wallet`](app/39-%20EtherWallet.sol)
 
 [`48. Access Control (Roles)`](app/48-%20AccessControl.sol)
+
+[`50. PiggyBank`](app/50-%20PiggyBank.sol)
 
 ## Security 🔰
 
