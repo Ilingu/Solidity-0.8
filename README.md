@@ -118,6 +118,8 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 
 [`50. PiggyBank`](app/50-%20PiggyBank.sol) **{APP}**
 
+[`51. ERC20`](app/51-%20ERC20.sol) **{APP}**
+
 #### Next comes soon 🦺
 
 ### Expert Skills 🥵
@@ -126,29 +128,31 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 
 ## Projects (App) 🤖
 
-[`7. Counter`](app/7-%20Counter.sol)
+[`7. Counter`](app/7-%20Counter.sol) **{Easy}**
 
-[`15. Ownable Contract`](app/15-%20Ownable.sol)
+[`15. Ownable Contract`](app/15-%20Ownable.sol) **{Easy}**
 
-[`18. Array Shifting`](app/18-%20ArrayShift.sol)
+[`18. Array Shifting`](app/18-%20ArrayShift.sol) **{Medium}**
 
-[`19. Array Shifting V2`](app/19-%20ArrayReplaceLast.sol)
+[`19. Array Shifting V2`](app/19-%20ArrayReplaceLast.sol) **{Medium}**
 
-[`21. Iterable Mapping`](app/21-%20IterableMapping.sol)
+[`21. Iterable Mapping`](app/21-%20IterableMapping.sol) **{Medium}**
 
-[`24. Proxy Contract (Hard)`](app/24-%20Proxy.sol)
+[`24. Proxy Contract`](app/24-%20Proxy.sol) **{Hard}**
 
-[`26. Data Locations`](app/26-%20SimpleStorage.sol)
+[`26. Data Locations`](app/26-%20SimpleStorage.sol) **{Medium}**
 
-[`27. Todo List`](app/27-%20TodoList.sol)
+[`27. Todo List`](app/27-%20TodoList.sol) **{Medium-Hard}**
 
-[`29. Chat App`](app/29-%20ChatApp.sol)
+[`29. Chat App`](app/29-%20ChatApp.sol) **{Medium}**
 
-[`39. Ether Wallet`](app/39-%20EtherWallet.sol)
+[`39. Ether Wallet`](app/39-%20EtherWallet.sol) **{Medium}**
 
-[`48. Access Control (Roles)`](app/48-%20AccessControl.sol)
+[`48. Access Control (Roles)`](app/48-%20AccessControl.sol) **{Medium-Hard}**
 
-[`50. PiggyBank`](app/50-%20PiggyBank.sol)
+[`50. PiggyBank`](app/50-%20PiggyBank.sol) **{Medium-Hard}**
+
+[`51. ERC20`](app/51-%20ERC20.sol) **{DeFi}**
 
 ## Security 🔰
 
