@@ -110,7 +110,7 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 
 [`46. Hash (Keccak256)`](docs/46-%20Hash.sol)
 
-[`47. Verify Signature`](docs/47-%20Sig.sol)
+[`47. Verify Signature`](docs/47-%20CheckSig.sol)
 
 [`48. Access Control (Roles)`](app/48-%20AccessControl.sol) **{APP}**
 
@@ -120,9 +120,9 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 
 [`51. ERC20`](app/51-%20ERC20.sol) **{APP}**
 
-#### Next comes soon 🦺
-
 ### Expert Skills 🥵
+
+[`52. MultiSigWallet`](app/52-%20MultiSigWallet.sol) **{APP}**
 
 #### Coming soon 🦺
 
@@ -153,6 +153,11 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 [`50. PiggyBank`](app/50-%20PiggyBank.sol) **{Medium-Hard}**
 
 [`51. ERC20`](app/51-%20ERC20.sol) **{DeFi}**
+
+[`52. MultiSigWallet`](app/52-%20MultiSigWallet.sol) **{Tricky}**
+
+> Note that if you can make a MultiSigWallet by yourself, you have a bery good understanding of Solidity Basics.
+> It's note hard to make, just a bit tricky to design
 
 ## Security 🔰
 
