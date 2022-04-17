@@ -120,9 +120,17 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 
 [`51. ERC20`](app/51-%20ERC20.sol) **{APP}**
 
-### Expert Skills 🥵
+### Expert/Experimented Skills 🥵
 
 [`52. MultiSigWallet`](app/52-%20MultiSigWallet.sol) **{APP}**
+
+[`53. FunctionSelector`](docs/53-%20FunctionSelector.sol)
+
+[`54. Dutch Auction`](docs/53-%20FunctionSelector.sol) **{APP}**
+
+[`55. English Action`](docs/53-%20FunctionSelector.sol) **{APP}**
+
+[`56. Crowd Auction`](docs/53-%20FunctionSelector.sol) **{APP}**
 
 #### Coming soon 🦺
 
@@ -154,10 +162,16 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 
 [`51. ERC20`](app/51-%20ERC20.sol) **{DeFi}**
 
-[`52. MultiSigWallet`](app/52-%20MultiSigWallet.sol) **{Tricky}**
+[`52. MultiSigWallet`](app/52-%20MultiSigWallet.sol) **{Tricky-Hard}**
 
 > Note that if you can make a MultiSigWallet by yourself, you have a bery good understanding of Solidity Basics.
 > It's note hard to make, just a bit tricky to design
+
+[`54. Dutch Auction`](docs/53-%20FunctionSelector.sol) **{Tricky}**
+
+[`55. English Action`](docs/53-%20FunctionSelector.sol) **{Tricky}**
+
+[`56. Crowd Auction`](docs/53-%20FunctionSelector.sol) **{Tricky}**
 
 ## Security 🔰
 
