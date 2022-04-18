@@ -126,11 +126,15 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 
 [`53. FunctionSelector`](docs/53-%20FunctionSelector.sol)
 
-[`54. Dutch Auction`](docs/53-%20FunctionSelector.sol) **{APP}**
+[`54. Dutch Auction`](app/54-%20DutchAuction.sol) **{APP}**
 
-[`55. English Action`](docs/53-%20FunctionSelector.sol) **{APP}**
+[`55. English Action`](app/55-%20EnglishAuction.sol) **{APP}**
 
-[`56. Crowd Auction`](docs/53-%20FunctionSelector.sol) **{APP}**
+[`56. Crowd Auction`](app/56-%20CrowdFund.sol) **{APP}**
+
+[`57. Create2`](docs/57-%20Create2.sol)
+
+[`58. Batched Call`](app/58-%20MultiCall.sol) **{APP}**
 
 #### Coming soon 🦺
 
@@ -146,7 +150,7 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 
 [`21. Iterable Mapping`](app/21-%20IterableMapping.sol) **{Medium}**
 
-[`24. Proxy Contract`](app/24-%20Proxy.sol) **{Hard}**
+[`24. Proxy Contract`](app/24-%20Proxy.sol) **{Very Hard}**
 
 [`26. Data Locations`](app/26-%20SimpleStorage.sol) **{Medium}**
 
@@ -164,14 +168,16 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 
 [`52. MultiSigWallet`](app/52-%20MultiSigWallet.sol) **{Tricky-Hard}**
 
-> Note that if you can make a MultiSigWallet by yourself, you have a bery good understanding of Solidity Basics.
-> It's note hard to make, just a bit tricky to design
+> Note that if you can make a MultiSigWallet by yourself, you have a very good understanding of Solidity Basics.
+> It's not hard to make, just a bit tricky to design
 
-[`54. Dutch Auction`](docs/53-%20FunctionSelector.sol) **{Tricky}**
+[`54. Dutch Auction`](app/54-%20DutchAuction.sol) **{Tricky}**
 
-[`55. English Action`](docs/53-%20FunctionSelector.sol) **{Tricky}**
+[`55. English Action`](app/55-%20EnglishAuction.sol) **{Tricky}**
 
-[`56. Crowd Auction`](docs/53-%20FunctionSelector.sol) **{Tricky}**
+[`56. Crowd Auction`](app/56-%20CrowdFund.sol) **{Tricky}**
+
+[`58. Batched Call`](app/58-%20MultiCall.sol) **{Advanced}**
 
 ## Security 🔰
 

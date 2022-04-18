@@ -62,7 +62,7 @@ contract Helper {
     returns (bytes memory)
   {
     bytes memory bytecode = type(TestContract2).creationCode; // Return Bytecode of contract
-    return abi.encodePacked(bytecode, abi.encode(_x, _y)); // Append the arg of TestContract2 to the bytecode
+    return abi.encodePacked(bytecode, abi.encode(_x, _y)); // Append the arg of TestContract2 constructor to the bytecode
   }
 
   function getCalldata(address _owner) external pure returns (bytes memory) {
