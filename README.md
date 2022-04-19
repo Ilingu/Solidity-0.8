@@ -136,7 +136,11 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 
 [`58. Batched Call`](app/58-%20MultiCall.sol) **{APP}**
 
-#### Coming soon 🦺
+[`59. Batched Delegate Call`](app/59-%20MultiDelegateCall.sol) **{APP}**
+
+[`60. ABI Decode`](docs/60-%20AbiDecode.sol)
+
+[`61. Gas Optimization`](docs/61-%20GasOptimization.sol)
 
 ## Projects (App) 🤖
 
@@ -178,6 +182,8 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 [`56. Crowd Auction`](app/56-%20CrowdFund.sol) **{Tricky}**
 
 [`58. Batched Call`](app/58-%20MultiCall.sol) **{Advanced}**
+
+[`59. Batched Delegate Call`](app/59-%20MultiDelegateCall.sol) **{Advanced}**
 
 ## Security 🔰
 
