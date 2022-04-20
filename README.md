@@ -8,6 +8,20 @@ Learn how to **Create Smart Contract** on **any EVM compatible blockchains** by 
 
 I just create this repository to have my own solidity dictionary 😀, but feel free to change outdated information or fork to create your own one ! 😏
 
+## 🧭 Table of contents
+
+- [The _SOLIDITY_ WIKI 🤯](#the-solidity-wiki-)
+    - [Notes 🗒](#notes-)
+  - [🧭 Table of contents](#-table-of-contents)
+  - [Docs 📜](#docs-)
+    - [Basics 🥱](#basics-)
+    - [Intermediaire 😓](#intermediaire-)
+    - [Advanced Skills 😥](#advanced-skills-)
+    - [Expert/Experimented Skills 🥵](#expertexperimented-skills-)
+  - [Projects (App) 🤖](#projects-app-)
+  - [Security 🔰](#security-)
+    - [Coming soon 🦺](#coming-soon-)
+
 ## Docs 📜
 
 ### Basics 🥱
@@ -186,5 +200,7 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 [`59. Batched Delegate Call`](app/59-%20MultiDelegateCall.sol) **{Advanced}**
 
 ## Security 🔰
+
+[`1. Reentrancy`](Security/1-%20Reentrancy.sol)
 
 ### Coming soon 🦺
