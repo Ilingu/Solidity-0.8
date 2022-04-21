@@ -21,7 +21,7 @@ pragma solidity ^0.8.7;
 | Contract B is A   |
 |                   |
 | inter()           |
-| pub()             |   
+| pub()             |
 |___________________|
 
 */

@@ -203,4 +203,12 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 
 [`1. Reentrancy`](Security/1-%20Reentrancy.sol)
 
+[`2. Overflow/Underflow`](Security/2-%20Over-Underflow.sol)
+
+[`3. Force Sending Ether`](Security/3-%20ForceEther.sol)
+
+[`4. EVM Slot`](Security/4-%20EVMSlot.sol)
+
+> And how to access "private" variable from outside
+
 ### Coming soon 🦺
