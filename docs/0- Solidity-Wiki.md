@@ -138,3 +138,7 @@ To convert linked type, e.g byte to string
   > 1bytes = 1 character
   > bytes1 = "ab" -> 2char so 2bytes, so bytes1 will be not enough -> ERROR
 - `string VS bytes`: cannot add/get/getLength element to/from string whereas bytes yes (In fact, bytes is a array)
+
+## String comparaison
+
+- ` if (keccak256(abi.encode(SomeVariable)) == keccak256(abi.encode("Something")))`

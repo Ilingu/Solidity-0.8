@@ -20,7 +20,7 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
     - [Expert/Experimented Skills 🥵](#expertexperimented-skills-)
   - [Projects (App) 🤖](#projects-app-)
   - [Security 🔰](#security-)
-    - [Coming soon 🦺](#coming-soon-)
+    - [No order ☀](#no-order-)
 
 ## Docs 📜
 
@@ -201,6 +201,8 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 
 ## Security 🔰
 
+### No order ☀
+
 [`1. Reentrancy`](Security/1-%20Reentrancy.sol)
 
 [`2. Overflow/Underflow`](Security/2-%20Over-Underflow.sol)
@@ -219,4 +221,14 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 
 [`8. Unsafe Delegatecall`](Security/8-%20Phising.sol)
 
-### Coming soon 🦺
+[`9. Hidding Malicious code`](Security/9-%20HidingMaliciousCode.sol)
+
+[`10. HoneyPot`](Security/10-%20HoneyPot.sol)
+
+[`11. Front Runner`](Security/11-%20FrontRunning.sol)
+
+[`12. Block Timestamp`](Security/12-%20BlockTimestamp.sol)
+
+[`13. Signature Replay`](Security/13-%20SigReplay.sol)
+
+[`14. Null Contract`](Security/14-%20NullContract.sol)
