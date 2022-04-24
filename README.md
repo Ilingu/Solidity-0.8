@@ -207,8 +207,16 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 
 [`3. Force Sending Ether`](Security/3-%20ForceEther.sol)
 
-[`4. EVM Slot`](Security/4-%20EVMSlot.sol)
+[`4. EVM Slot`](Security/4-%20EVMSlot.sol) // And how to access "private" variable from outside
 
-> And how to access "private" variable from outside
+[`5.1. Unsafe Delegatecall [PART 1]`](Security/5.1-%20UnsafeDelegatecall.sol)
+
+[`5.2. Unsafe Delegatecall [PART 2]`](Security/5.2-%20UnsafeDelegatecall.sol)
+
+[`6. Unsafe Delegatecall`](Security/6-%20Random.sol)
+
+[`7. Unsafe Delegatecall`](Security/7-%20DoS.sol)
+
+[`8. Unsafe Delegatecall`](Security/8-%20Phising.sol)
 
 ### Coming soon 🦺
