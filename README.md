@@ -156,6 +156,12 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 
 [`61. Gas Optimization`](docs/61-%20GasOptimization.sol)
 
+[`62. Time Lock`](app/62-%20TimeLock.sol) **{APP}**
+
+[`63. Wrapped ETH (WETH)`](app/63-%20WETH.sol) **{APP}**
+
+[`64. Vault`](app/64-%20Vault.sol) **{APP}**
+
 ## Projects (App) 🤖
 
 [`7. Counter`](app/7-%20Counter.sol) **{Easy}**
@@ -198,6 +204,12 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 [`58. Batched Call`](app/58-%20MultiCall.sol) **{Advanced}**
 
 [`59. Batched Delegate Call`](app/59-%20MultiDelegateCall.sol) **{Advanced}**
+
+[`62. Time Lock`](app/62-%20TimeLock.sol) **{Advanced}**
+
+[`63. Wrapped ETH (WETH)`](app/63-%20WETH.sol) **{DeFi}**
+
+[`64. Vault`](app/64-%20Vault.sol)
 
 ## Security 🔰
 

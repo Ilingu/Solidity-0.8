@@ -30,15 +30,21 @@ interface IERC20 {
 }
 
 contract ERC20 is IERC20 {
-  uint256 public totalSupply;
   mapping(address => uint256) public balanceOf;
   mapping(address => mapping(address => uint256)) public allowance;
-  string public constant name = "Test";
-  string public constant symbol = "TEST";
+  uint256 public totalSupply;
+  string public name;
+  string public symbol;
 
   uint256 public constant decimals = 18; // 10**18 = 1Token <=> 1 = 10**-18Token
 
-  constructor(uint256 _totalSupply) {
+  constructor(
+    string memory _name,
+    string memory _symbol,
+    uint256 _totalSupply
+  ) {
+    name = _name;
+    symbol = _symbol;
     totalSupply = _totalSupply;
   }
 
@@ -69,13 +75,13 @@ contract ERC20 is IERC20 {
     return true;
   }
 
-  function mint(uint256 amount) external {
+  function mint(uint256 amount) public {
     balanceOf[msg.sender] += amount;
     totalSupply += amount;
     emit Transfer(address(0), msg.sender, amount);
   }
 
-  function burn(uint256 amount) external {
+  function burn(uint256 amount) public {
     balanceOf[msg.sender] -= amount;
     totalSupply -= amount;
     emit Transfer(msg.sender, address(0), amount);
