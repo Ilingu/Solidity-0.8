@@ -4,7 +4,7 @@ Learn how to **Create Smart Contract** on **any EVM compatible blockchains** by 
 
 ### Notes 🗒
 
-**All the content of this repository come from [@Taz](https://github.com/t4sk/)** and his $awesome$ videos on [Solidity Development](https://youtube.com/playlist?list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p). **Go Watch Them !** 🤩
+**All the content of this repository come from [@Taz](https://github.com/t4sk/)** and his awesome videos on [Solidity Development](https://youtube.com/playlist?list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p). **Go Watch Them !** 🤩
 
 I just create this repository to have my own solidity dictionary 😀, but feel free to change outdated information or fork to create your own one ! 😏
 
