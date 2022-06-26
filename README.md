@@ -13,16 +13,16 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 - [The _SOLIDITY_ WIKI 🤯](#the-solidity-wiki-)
     - [Notes 🗒](#notes-)
   - [🧭 Table of contents](#-table-of-contents)
-  - [Docs 📜](#docs-)
+  - [Learning Path 📜](#learning-path-)
     - [Basics 🥱](#basics-)
     - [Intermediaire 😓](#intermediaire-)
     - [Advanced Skills 😥](#advanced-skills-)
     - [Expert/Experimented Skills 🥵](#expertexperimented-skills-)
-  - [Projects (App) 🤖](#projects-app-)
+  - [Challenges 🤖](#challenges-)
   - [Security 🔰](#security-)
     - [No order ☀](#no-order-)
 
-## Docs 📜
+## Learning Path 📜
 
 ### Basics 🥱
 
@@ -40,8 +40,6 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 
 [`6. View & Pure Functions`](docs/6-%20ViewAndPure.sol)
 
-[`7. Counter`](app/7-%20Counter.sol) **{APP}**
-
 [`8. Types Default Values`](docs/8-%20DefaultValues.sol)
 
 [`9. Constant Variables`](docs/9-%20Constants.sol)
@@ -58,35 +56,17 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 
 [`14. Constructor Keyword`](docs/14-%20Constructor.sol)
 
-[`15. Ownable Contract`](app/15-%20Ownable.sol) **{APP}**
-
-[`16. Functions Outputs`](docs/16-%20FunctionOutputs.sol) **{APP}**
-
 [`17. Arrays`](docs/17-%20Array.sol)
 
-[`18. Array Manipulation`](app/18-%20ArrayShift.sol) **{APP}**
-
-[`19. Array Manipulation Part 2`](app/19-%20ArrayReplaceLast.sol) **{APP}**
-
 [`20. Mapping`](docs/20-%20Mapping.sol)
-
-[`21. Mapping Iterable`](app/21-%20IterableMapping.sol) **{APP}**
 
 [`22. Struct`](docs/22-%20Struct.sol)
 
 [`23. Enum`](docs/23-%20Enum.sol)
 
-[`24. Proxy Contract`](app/24-%20Proxy.sol) **{APP}**
-
 [`25. Data Locations`](docs/25-%20DataLocations.sol)
 
-[`26. Simple Storage`](app/26-%20SimpleStorage.sol) **{APP}**
-
-[`27. Todo List`](app/27-%20TodoList.sol) **{APP}**
-
 [`28. Event`](docs/28-%20Event.sol)
-
-[`29. Chat App`](app/29-%20ChatApp.sol) **{APP}**
 
 [`30. Inheritance`](docs/30-%20Inheritance.sol)
 
@@ -108,8 +88,6 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 
 [`38. Send ETH`](docs/38-%20SendEth.sol)
 
-[`39. Ether Wallet`](app/39-%20EtherWallet.sol) **{APP}**
-
 [`40. Call Other Contracts`](docs/40-%20CallOtherContracts.sol)
 
 [`41. Contracts Interface`](docs/41-%20Interfaces.sol)
@@ -126,43 +104,19 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 
 [`47. Verify Signature`](docs/47-%20CheckSig.sol)
 
-[`48. Access Control (Roles)`](app/48-%20AccessControl.sol) **{APP}**
-
 [`49. Kill Contract ☠`](docs/49-%20Kill.sol)
-
-[`50. PiggyBank`](app/50-%20PiggyBank.sol) **{APP}**
-
-[`51. ERC20`](app/51-%20ERC20.sol) **{APP}**
 
 ### Expert/Experimented Skills 🥵
 
-[`52. MultiSigWallet`](app/52-%20MultiSigWallet.sol) **{APP}**
-
 [`53. FunctionSelector`](docs/53-%20FunctionSelector.sol)
 
-[`54. Dutch Auction`](app/54-%20DutchAuction.sol) **{APP}**
-
-[`55. English Action`](app/55-%20EnglishAuction.sol) **{APP}**
-
-[`56. Crowd Auction`](app/56-%20CrowdFund.sol) **{APP}**
-
 [`57. Create2`](docs/57-%20Create2.sol)
-
-[`58. Batched Call`](app/58-%20MultiCall.sol) **{APP}**
-
-[`59. Batched Delegate Call`](app/59-%20MultiDelegateCall.sol) **{APP}**
 
 [`60. ABI Decode`](docs/60-%20AbiDecode.sol)
 
 [`61. Gas Optimization`](docs/61-%20GasOptimization.sol)
 
-[`62. Time Lock`](app/62-%20TimeLock.sol) **{APP}**
-
-[`63. Wrapped ETH (WETH)`](app/63-%20WETH.sol) **{APP}**
-
-[`64. Vault`](app/64-%20Vault.sol) **{APP}**
-
-## Projects (App) 🤖
+## Challenges 🤖
 
 [`7. Counter`](app/7-%20Counter.sol) **{Easy}**
 
@@ -195,11 +149,11 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 > Note that if you can make a MultiSigWallet by yourself, you have a very good understanding of Solidity Basics.
 > It's not hard to make, just a bit tricky to design
 
-[`54. Dutch Auction`](app/54-%20DutchAuction.sol) **{Tricky}**
+[`54. Dutch Auction`](app/54-%20DutchAuction.sol) **{Tricky-Hard}**
 
-[`55. English Action`](app/55-%20EnglishAuction.sol) **{Tricky}**
+[`55. English Action`](app/55-%20EnglishAuction.sol) **{Tricky-Hard}**
 
-[`56. Crowd Auction`](app/56-%20CrowdFund.sol) **{Tricky}**
+[`56. Crowd Auction`](app/56-%20CrowdFund.sol) **{Tricky-Hard}**
 
 [`58. Batched Call`](app/58-%20MultiCall.sol) **{Advanced}**
 
@@ -210,6 +164,8 @@ I just create this repository to have my own solidity dictionary 😀, but feel 
 [`63. Wrapped ETH (WETH)`](app/63-%20WETH.sol) **{DeFi}**
 
 [`64. Vault`](app/64-%20Vault.sol)
+
+[`65. Rock Paper Scissors`](app/65-%20RockPaperScissors.sol) **{Hard}**
 
 ## Security 🔰
 
